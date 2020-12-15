@@ -56,7 +56,7 @@ LightmapSettings:
   m_LightmapEditorSettings:
     serializedVersion: 12
     m_Resolution: 2
-    m_BakeResolution: 10
+    m_BakeResolution: 40
     m_AtlasSize: 512
     m_AO: 0
     m_AOMaxDistance: 1
@@ -148,7 +148,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400112, guid: 002e2a607f5b64c48be0b3b0d8b8bfdd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3
+      value: -1.85
       objectReference: {fileID: 0}
     - target: {fileID: 400112, guid: 002e2a607f5b64c48be0b3b0d8b8bfdd, type: 3}
       propertyPath: m_LocalPosition.y
@@ -261,7 +261,7 @@ Light:
   m_BoundingSphereOverride: {x: 0, y: 7.943e-42, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
-  m_ShadowAngle: 0
+  m_ShadowAngle: 3.6
 --- !u!4 &855121885
 Transform:
   m_ObjectHideFlags: 0
